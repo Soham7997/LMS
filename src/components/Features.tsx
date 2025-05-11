@@ -63,7 +63,7 @@ const Features: React.FC = () => {
       <div className="container mx-auto px-4">
         <div className="text-center max-w-3xl mx-auto mb-16">
           <h5 className="text-indigo-600 font-medium mb-2">Why Choose Us</h5>
-          <h2 className="text-3xl md:text-4xl font-bold text-gray-900 mb-4">The 日本語学院 Experience</h2>
+          <h2 className="text-3xl md:text-4xl font-bold text-gray-900 mb-4">The URJA Experience</h2>
           <p className="text-lg text-gray-600">
             Our teaching methodology combines traditional techniques with modern approaches to ensure an effective and engaging learning experience.
           </p>
