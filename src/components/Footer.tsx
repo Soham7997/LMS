@@ -49,7 +49,7 @@ const Footer: React.FC = () => {
               <li><Link href="#beginner" className="text-gray-600 hover:text-indigo-600 transition-colors">Beginner (N5)</Link></li>
               <li><Link href="#elementary" className="text-gray-600 hover:text-indigo-600 transition-colors">Elementary (N4)</Link></li>
               <li><Link href="#intermediate" className="text-gray-600 hover:text-indigo-600 transition-colors">Intermediate (N3)</Link></li>
-              <li><Link href="#advanced" className="text-gray-600 hover:text-indigo-600 transition-colors">Advanced (N2-N1)</Link></li>
+              <li><Link href="#advanced" className="text-gray-600 hover:text-indigo-600 transition-colors">Advanced (N2)</Link></li>
               <li><Link href="#" className="text-gray-600 hover:text-indigo-600 transition-colors">Business Japanese</Link></li>
               <li><Link href="#" className="text-gray-600 hover:text-indigo-600 transition-colors">JLPT Preparation</Link></li>
             </ul>
